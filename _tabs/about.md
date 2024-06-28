@@ -12,3 +12,5 @@ Currently, I am collaborating on three exciting projects:
 - predicting and enhancing employee performance
 - analyzing transaction characteristics of credit card fraud
 - studying the impact of reviews on Airbnb booking rates
+
+![Photo](/assets/img/chaosclaritywide.jpg){: w="700" h="400"}
