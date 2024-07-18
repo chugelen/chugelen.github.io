@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![Photo](/assets/img/happy_employees.jpg){: width="150" height="50" .right}
+![Photo](/assets/img/robotowl.jpg){: width="150" height="50" .right}
 
 Hi, I'm Cali  Hugelen, a dedicated data science student at Bellevue University, set to graduate in August 2024. Based in Southern California, I am passionate about working remotely to travel and explore the world with my family. 
 
