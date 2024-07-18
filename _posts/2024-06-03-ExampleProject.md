@@ -5,8 +5,9 @@ description: >-
 date: 2024-06-03 19:43:00-0700
 categories: [Projects, Data Science]
 tags: [Project Template, Portfolio]
-pin: true
+pin: false
 image: /assets/img/owlpreview.jpg
+published: false
 ---
 
 ## Project Name
