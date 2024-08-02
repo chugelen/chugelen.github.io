@@ -10,6 +10,19 @@ refactor: true
 
 {% assign posts = '' | split: '' %}
 
+<!-- Personal Information Section -->
+<div id="personal-info" class="card-wrapper card my-4">
+  <div class="card-body">
+    <h1 class="card-title my-2">About Me</h1>
+    <p class="card-text content mt-0 mb-3">
+      Hi, I’m Cali Hugelen, a data science student graduating in August 2024. I enjoy using data science to help improve HR processes by creating data 
+      visualizations and dashboards. I'm passionate about learning SQL and Python to streamline processes and provide insights. 
+      <a href="https://chugelen.github.io/about/">Learn more about me</a>.    
+    </p>
+  </div>
+</div>
+<!-- End of Personal Information Section -->
+
 <!-- Get pinned posts -->
 
 {% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
